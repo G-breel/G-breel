@@ -1,4 +1,4 @@
-<h2 align="center">Hey! I'm from Indonesia.<br> My partner usually calls me Breel.<br> Right now, I'm still diving into the world of IT!</h2>
+  <h2 align="center">Hey! I'm from Indonesia.<br> I'm a full stack develop .<br> 🔥🔥🔥Right now, I'm still diving into the world of TEKNOLOGI!🔥🔥🔥</h2>
 
 ###
 
