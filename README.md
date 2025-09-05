@@ -1,4 +1,4 @@
-  <h2 align="center">Hey! I'm from Indonesia.<br> I'm a full stack develop .<br> 🔥🔥🔥Right now, I'm still diving into the world of TEKNOLOGI!🔥🔥🔥</h2>
+  <h2 align="center">Hey! I'm from Indonesia.<br> I'm a full stack develop .<br> 🔥🔥🔥 i still a live 🔥🔥🔥</h2>
 
 ###
 
