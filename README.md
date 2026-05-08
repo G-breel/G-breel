@@ -47,10 +47,10 @@ const breel = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=G-breel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=38bdf8&text_color=94a3b8" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G-breel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8" height="150"/>
-</div>
+</div> -->
 
 <br/>
 
